@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.4.0",
   "updates": [
     {
-      "id": "v2-1-0-8d-music",
+      "id": "v2-4-0-8d-music",
       "title": "Immersive 8D Spatial Audio",
       "version": "v2.4.0",
       "date": "Nov 2026",
@@ -11,7 +11,7 @@
       "link": ""
     },
     {
-      "id": "v2-1-0-darling-actions",
+      "id": "v2-4-0-darling-actions",
       "title": "Darling AI Can Now Perform Actions",
       "version": "v2.4.0",
       "date": "Nov 2026",
@@ -20,7 +20,7 @@
       "link": ""
     },
     {
-      "id": "v2-1-0-theatre-mode",
+      "id": "v2-4-0-theatre-mode",
       "title": "Cinematic Theatre Mode in Videos",
       "version": "v2.4.0",
       "date": "Nov 2026",
@@ -29,7 +29,7 @@
       "link": ""
     },
     {
-      "id": "v2-1-0-performance-boost",
+      "id": "v2-4-0-performance-boost",
       "title": "Improved performance",
       "version": "v2.4.0",
       "date": "Nov 2026",
