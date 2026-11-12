@@ -1,27 +1,26 @@
-# OneFiles: All-in-One Mobile Super App
+# One4Me - All in One (formerly OneFiles - All in One)
 
-Official repository for **OneFiles**, the ultimate mobile utility consolidator. 
+Official repository for **One4Me - All in One** (formerly known as **OneFiles - All in One**), the ultimate mobile super app and utility hub. 
 
-🔗 **Live Portal**: [Official OneFiles Website](https://nextgenlabs-official.github.io/OneFiles/)  
-🚀 **Google Play Listing**: [Get OneFiles on Google Play](https://play.google.com/store/apps/details?id=com.onefiles.app)  
+🔗 **Live Portal**: [Official One4Me Website](https://nextgenlabs-official.github.io/One4Me/)  
+🚀 **Google Play Listing**: [Get One4Me on Google Play](https://play.google.com/store/apps/details?id=com.onefiles.app)  
 
 ---
 
-## 📱 About OneFiles
+## 📱 About One4Me - All in One (formerly OneFiles - All in One)
 
-OneFiles replaces dozens of standalone utilities with a single, highly-integrated application footprint. Designed to maximize functionality while minimizing local storage usage, it consolidates:
-* **Smart File Manager**: Fast, categorized directory system.
-* **Secure Web Browser**: Lightweight, private tabs with built-in search.
-* **Multimedia Player**: Audio and video player cards.
+One4Me replaces dozens of standalone utilities with a single, highly-integrated application footprint. Designed to maximize functionality while minimizing local storage usage, it consolidates:
+* **Files Organizer**: Browse, manage, and explore device storage smoothly.
+* **8D Audio & Cinema Video Players**: Immersive 360° spatial audio and theatre-mode video experience.
+* **Secure Web Browser**: Lightweight, private tabs with built-in search and ad blocking.
 * **Darling AI**: An interactive, localized AI companion.
-* **50+ Micro-Utilities**: Tools for device hardware, networking, math, and daily operations.
+* **50+ Micro-Utilities**: Tools for connectivity, productivity, lifestyle, math, and hardware diagnostics.
 
-## 🛠️ Developed By
-OneFiles is engineered by **Madhankumar Onteddubandi (@MadhanBlastz)** under **NextGen Labs**.
+## 👨‍💻 Founder & Lead Architect
+**Madhankumar Onteddubandi (@MadhanBlastz)** is the Founder and Lead Architect of **One4Me - All in One (formerly OneFiles - All in One)**.
 
-* **Developer Profile**: [Madhankumar Onteddubandi Portfolio](https://nextgenlabs-official.github.io/Developer/)
-* **Parent Brand Website**: [NextGen Labs Ecosystem](https://nextgenlabs-official.github.io/NextGen-Labs-Official/)
+* **Founder Portfolio**: [Madhankumar Onteddubandi Profile](https://nextgenlabs-official.github.io/Developer/)
 
 ---
 
-*This repository hosts the official landing page files for the OneFiles (One Files) application. For issues regarding app configurations or privacy guidelines, please refer to the [App Policies Hub](https://nextgenlabs-official.github.io/Privacy-policy/).*
+*This repository hosts the official landing page files for One4Me - All in One (formerly OneFiles - All in One). For issues regarding app configurations or privacy guidelines, please refer to the [App Policies Hub](https://nextgenlabs-official.github.io/Privacy-policy/One4Me.html).*
